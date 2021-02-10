@@ -1,3 +1,3 @@
-def greeting(hi there)
+def "hello there"
   
 end
