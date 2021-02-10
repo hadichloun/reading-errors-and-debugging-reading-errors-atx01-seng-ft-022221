@@ -1,3 +1,3 @@
-def "hello there"
-  
-end
+"hello world"
+
+puts "hello_world"
