@@ -1,2 +1,4 @@
-greeting = "hello there"
-greeting
+def greeting(hi there)
+  greeting
+  
+end
